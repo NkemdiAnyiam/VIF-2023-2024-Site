@@ -28,7 +28,7 @@ export function HomePage(): JSX.Element {
         <div className="container">
           <h2 className="heading-secondary">Introduction</h2>
           <VideoBox
-            title="TAMU Best of Visualization - UI/UX and Graphic Design"
+            title="Visualization Industry Fair 2023-2024 Trailer"
             videoId="sfnlbThIZtY"
             fixedScale
           />
